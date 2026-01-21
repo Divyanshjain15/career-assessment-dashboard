@@ -1,6 +1,6 @@
-Career Assessment Dashboard – Full Stack Assignment
+### Career Assessment Dashboard – Full Stack Assignment
 
-## 📌 Project Overview
+### Project Overview
 
 This project is a **mini Career Assessment Dashboard** built as part of the **Career-Mitra Full Stack Developer Assignment**.
 It allows users to **add, view, update, and delete student assessment records** through a clean React frontend and a FastAPI backend.
@@ -14,7 +14,7 @@ The application demonstrates:
 
 ---
 
-## 🛠 Tech Stack Used
+### Tech Stack Used
 
 ### Backend
 
@@ -36,7 +36,7 @@ The application demonstrates:
 
 ---
 
-## 📂 Project Structure
+### Project Structure
 
 ```
 assignment/
@@ -67,7 +67,7 @@ assignment/
 
 
 
-## 🔗 API Endpoints
+### API Endpoints
 
 | Method | Endpoint       | Description         |
 | ------ | -------------- | ------------------- |
@@ -79,7 +79,7 @@ assignment/
 
 ---
 
-## ✨ Features Implemented
+### Features Implemented
 
 - Add student assessment data
 - View all student records
