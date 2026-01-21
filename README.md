@@ -65,78 +65,7 @@ assignment/
 └── README.md
 ```
 
----
 
-## ⚙️ Setup Instructions
-
-### 🔹 Backend Setup (FastAPI)
-
-1. Navigate to backend folder:
-
-```bash
-cd backend
-```
-
-2. Create virtual environment (optional but recommended):
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-3. Install dependencies:
-
-```bash
-pip install fastapi uvicorn sqlalchemy
-```
-
-4. Run the backend server:
-
-```bash
-uvicorn main:app --reload
-```
-
-5. API will be available at:
-
-```
-http://127.0.0.1:8000
-```
-
-6. Swagger docs:
-
-```
-http://127.0.0.1:8000/docs
-```
-
----
-
-### 🔹 Frontend Setup (React)
-
-1. Navigate to frontend folder:
-
-```bash
-cd frontend
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Start React app:
-
-```bash
-npm start
-```
-
-4. Frontend will run on:
-
-```
-http://localhost:3000
-```
-
----
 
 ## 🔗 API Endpoints
 
@@ -159,16 +88,5 @@ http://localhost:3000
 - Proper error handling
 - CORS enabled for frontend-backend communication
 
----
-
----
-
-## ✅ Notes
-
-- This project is developed solely for assignment purposes.
-- Code is written with clarity and originality in mind.
-- The application runs without errors as per instructions.
-
----
 
 **Thank you for reviewing my assignment.**
